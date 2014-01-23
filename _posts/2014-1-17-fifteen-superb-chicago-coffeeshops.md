@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Fifteen Superb Coffeeshops In Thirteen Chicago Neighborhoods
 ---
 Fifteen Superb Coffeeshops In Thirteen Chicago Neighborhoods
 ================================

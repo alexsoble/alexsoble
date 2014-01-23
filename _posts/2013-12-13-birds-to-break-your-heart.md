@@ -30,9 +30,7 @@ Some commenters have dismissed the rape. [Miguel Syjuco in the New York Times](h
 <img src="http://1.bp.blogspot.com/--vGyOGISGbI/T0N5w_Hex_I/AAAAAAAADsE/eQMzZF9TJMQ/s1600/Wunderkammer+1599.jpg" alt="Wunderkrammer" style="width: 420px; float: left; margin-right: 30px; margin-bottom: 30px;"/>
 This is a big mistake. _Open City_ is meant to introduce a questioning note into the way we think about cities, strangers, and empathy. 
 
-From a distance, every member of the flock deserves love and protection. Told once, every stranger's story is beautiful, and might well be true. Loving a stranger is easy. 
-
-3But digging deeper complicates the picture. You may strike lies, self-deception, cruelty. Cole is reminding us that cities --- and by extension, globalization and technology --- have cold rivers flowing beneath their warm bustle.
+From a distance, every member of the flock deserves love and protection. Told once, every stranger's story is beautiful, and might well be true. Loving a stranger is easy. But digging deeper complicates the picture. You may strike lies, self-deception, cruelty. Cole is reminding us that cities --- and by extension, globalization and technology --- have cold rivers flowing beneath their warm bustle.
 
 This is not a comfortable way to think about the people we pass on the street. But don't open the _Wunderkammer_ unless you want to be made uncomfortable. 
 
