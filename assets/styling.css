@@ -4,6 +4,12 @@
 
   body { 
     background-color: #f7f7f7;
+    padding: 0px;
+    margin: 0px;
+    }
+
+  .big-text {
+    font-size: 15px;
     }
 
   .main-div { 
@@ -31,14 +37,22 @@
     margin-right: auto;
     }
 
-  #header-div {
-    position: relative; right: 100px; bottom: 20px;
+  .header-icon {
+    float: left; margin-left: 20px; position: relative; bottom: 10px;
     }
 
-  .header-icon {
-    float: left; margin-left: 20px; position: relative; top: 10px
+  .header-text {
+    float:left; margin-left: 20px; position: relative; bottom: 20px;
     }
     
+  .header-text.main {
+    margin-left: 0px; 
+    }
+
+  .header-text.blog {
+    bottom: 12px; 
+    }
+
   .block {
     width: 800px; 
     height: 280px;
@@ -123,14 +137,11 @@
     }
 
   #header { 
-    position: relative;
-    top: -10px; 
-    width: 120%; 
-    left: -10px; 
+    width: auto;
+    padding: 0px;
+    margin: 0px;
     padding-top: 20px;
     background-color: #8B2323;
-    margin-top: 0px;
-    margin-left: 0px;
     color: white;
     height: 60px;
     }
