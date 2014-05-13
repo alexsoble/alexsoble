@@ -7,7 +7,7 @@ Birds to Break your Heart
 
 Julius is a young Nigerian-German man who lives in New York City. He is the central character of the novel _Open City_ by Teju Cole. Julius likes to watch birds. Here's what passes through his mind as he watches sparrows flit through the bare branches of a tree outside a friend's apartment on Amsterdam Ave:
 
-> As I reflected on the fact that in each of these creatures was a tiny red heart, an engine that without fail provided the means for its exhiliarating midair maneuvers, I was reminded of how often people took comfort, whether consciously or not, in the idea that God himself attended to these homeless travelers with something like personal care; that contrary to the evidence of natural history, he protected each one of them from hunger and hazard and the elements.
+> As I reflected on the fact that in each of these creatures was a tiny red heart, an engine that without fail provided the means for its exhilarating midair maneuvers, I was reminded of how often people took comfort, whether consciously or not, in the idea that God himself attended to these homeless travelers with something like personal care; that contrary to the evidence of natural history, he protected each one of them from hunger and hazard and the elements.
 
 <img src="http://tjhoiland.com/wordpress/wp-content/uploads/2012/02/open_city_-_teju_cole.jpg" alt="Open City" style="width: 200px; float: right; margin-left: 30px; margin-bottom: 30px;"/>
 Julius takes long walks through the city and often finds himself in conversation with strangers. A Haitian shoe-shiner tells him about raising his orphaned niece and founding a school for orphaned children in New York. A jailed refugee from Liberia recounts his journey through peril and hunger to the United States. In each of these people is a red heart, and in hearing their stories we grow to love them and hope for their protection.  
@@ -16,7 +16,7 @@ Julius is enormously erudite and frames his world in terms of art, [classical mu
 
 All of these briefly-glimpsed characters and works of art add up to a mosaic. Teju Cole explained his book's structure in an [interview with 3:AM magazine](http://www.3ammagazine.com/3am/palimpsest-city):
 
-> __TC__: In a sense, Open City is a kind of _Wunderkammer_, one of those little rooms assembled with bric-a-brac by Renaissance scholars. I don't mean it as a term of praise: these cabinets of curiousities contained specific sorts of objects --- maps, skulls (as memento mori), works of art, stuffed animals, natural history samples, and books --- and Open City actually contains many of the same sort of objects. 
+> __TC__: In a sense, Open City is a kind of _Wunderkammer_, one of those little rooms assembled with bric-a-brac by Renaissance scholars. I don't mean it as a term of praise: these cabinets of curiosities contained specific sorts of objects --- maps, skulls (as memento mori), works of art, stuffed animals, natural history samples, and books --- and Open City actually contains many of the same sort of objects. 
 
 ___Warning: Spoilers and pessimism ahead.___
 

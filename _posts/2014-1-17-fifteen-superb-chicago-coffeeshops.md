@@ -26,15 +26,15 @@ As I get ready to depart Chicago in a few weeks for [Start-Up Chile](http://star
 The List
 ================================
 
-1. __Big Shoulders__: Go ahead, take a seat by the window. The traffic and pedestrians rushing by on Milwaukee & Chicago set an energetic pace. The coffee makes your toes tingle. The [Carl Sandburg poem](http://www.poetryfoundation.org/poetrymagazine/poem/2043) on the wall reminds you why you're here: to build something useful. If tea's your thing, the Camomile Mint Licorice Root will shake you to your foundations. *Neighborhood: West Town.*
+1. __Big Shoulders__: Go ahead, take a seat by the window. The traffic and pedestrians rushing by on Milwaukee & Chicago set an energetic pace. The coffee makes your toes tingle. The [Carl Sandburg poem](http://www.poetryfoundation.org/poetrymagazine/poem/2043) on the wall reminds you why you're here: to build something useful. If tea's your thing, the Chamomile Mint Licorice Root will shake you to your foundations. *Neighborhood: West Town.*
 
-1. __Atomix__: Their iced coffee is chocolatey in its gritty deliciousness. The silence is monastic, with designers and writers replacing Trappists or Benedictines. Come here to empty your mind of distractions and bring your whole being to bear on your work. _Neighborhood: West Town._
+1. __Atomix__: Their iced coffee is chocolaty in its gritty deliciousness. The silence is monastic, with designers and writers replacing Trappists or Benedictines. Come here to empty your mind of distractions and bring your whole being to bear on your work. _Neighborhood: West Town._
 
 1. __Ipsento__: Exposed brick and muddy, spicy lattes with cayenne pepper. This is where I built [DivvyBrags](http://www.divvybrags.com) over a few long stretches of coding. If you need to settle in for a long sprint, the back room is about as cozy as it gets. _Neighborhood: Bucktown._
 
 1. __Cafe Jumping Bean__: This place is to Pilsen's [Blue1647](http://www.blue1647.com/) coworking space as the in-house Intelligentsia is to 1871 in River North. Go-to spot for meeting over coffee or lunch. _Neighborhood: Pilsen._
 
-1. __Cafecito__: The ideal coffeeshop for extroverts. Located next to Chicago's international hostel, Cafecito bustles with backpackers from everywhere. I find that the background noise helps me concentrate. The *cafecito* itself is a potent mix of molten sugar and espresso. If you get hungry, the ropa vieja sandwhich is without peer. _Neighborhood: Loop._ 
+1. __Cafecito__: The ideal coffeeshop for extroverts. Located next to Chicago's international hostel, Cafecito bustles with backpackers from everywhere. I find that the background noise helps me concentrate. The *cafecito* itself is a potent mix of molten sugar and espresso. If you get hungry, the ropa vieja sandwich is without peer. _Neighborhood: Loop._ 
 
 1. __Z&H__: Let's say you're down in Hyde Park, demoing your product for professors at the University of Chicago. You need to quickly duck into a cafe to answer some emails or tweak some code. Z&H is your place. The wifi is unreliable at neighboring Medici and Hyde Park Cafe, and the coffee isn't nearly as good. _Neighborhood: Hyde Park._
 
