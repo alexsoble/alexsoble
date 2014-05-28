@@ -1,0 +1,153 @@
+/*** OVERALL STYLES ***/
+
+* { 
+  font-family: 'PT Sans', sans-serif;
+  margin: 0;
+  font-size: 103%; 
+}
+
+body { 
+  height: 100%;
+  padding: 0px;
+  background-color: #f7f7f7;
+}
+
+/*** HEADER AND FOOTER STYLES ***/
+
+header { 
+  background-color: #8B2323;
+  .container-fluid {
+    width: 80%;
+  }
+  .wordmark {
+    margin: 1em 0 0;
+  }
+  .header-menu {
+    margin: 2.5em 0 0;
+    .header-icon {
+      float: left;
+      margin-right: 1em;
+    } 
+    #blog-link {
+      position: relative;
+      bottom: 0.75em;
+    }
+  }
+}
+
+header, footer {
+  h1, h2, p, a {
+    color: white !important;
+    :hover {
+      opacity: 0.5 !important;
+    }
+  }
+}
+
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -120px; 
+  /* equal to footer height */
+}
+
+.page-wrap:after {
+  content: "";
+  display: block;
+  height: 120px; 
+}
+
+footer {
+  height: 120px; 
+  padding: 2%;
+  background-color: #8B2323;
+  p, h2, a {
+    color: white;
+  }
+} 
+
+.container {
+  width: 80%;
+  margin: 1em 0;
+  .narrow {
+    width: 60%;
+    margin: auto auto;
+  }
+}
+
+.block {
+  margin: 1em 1em 12em;
+  position: relative;
+}
+
+.textblock { 
+  margin: 4em;
+}
+
+/*** HOMEPAGE IMAGES ***/
+
+
+.circle-portrait {
+  width: 14em; 
+  height: 14em;
+  border-radius: 7em;
+  margin: 2em;
+  float: left; 
+  position: relative;
+  bottom: 2em;
+
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.circle-portrait.alt {
+  -webkit-transform: rotate3d(0,1,0,360deg);
+  -moz-transform: rotate3d(0,1,0,360deg);
+  -o-transform: rotate3d(0,1,0,360deg);
+  -ms-transform: rotate3d(0,1,0,360deg);
+  transform: rotate3d(0,1,0,360deg);
+}
+
+.circle-portrait.right { float: right; } 
+  
+#profile-image { background: url("/assets/images/Profile.jpg"); }
+
+#profile-image.alt { background: url("/assets/images/profile-pic-alt.jpg"); }
+
+#heyu-image { background: url("/assets/images/heyu-pic.png"); }
+
+#heyu-image.alt { background: url("/assets/images/heyu-pic-alt.png"); }
+
+#divvybrags-image { background: url("/assets/images/divvy-biking.jpg"); }
+
+#divvybrags-image.alt { background: url("/assets/images/divvy-image-alt.png"); }
+
+#lscmap-image { background: url("/assets/images/lscmap.jpg"); }
+
+#lscmap-image.alt { background: url("/assets/images/lscmap-alt.jpg"); }
+
+#cpsb2s-image { background: url("/assets/images/cpsb2s.jpg"); }
+
+#cpsb2s-image.alt { background: url("/assets/images/cps-b2s-alt.png"); }
+
+/*** BLOG POST STYLES ***/
+
+blockquote p {
+  margin: 3em 1em;
+  padding: 1em 3em;
+  background-color: white;
+}
+
+.center-image {
+  background-color: white;
+  color: gray;
+  margin: auto auto;
+}

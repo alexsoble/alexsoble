@@ -12,8 +12,7 @@ First of all: Filter, Argo Tea, and Eva's each appear ___twice___! Given the abu
 As I get ready to depart Chicago in a few weeks for [Start-Up Chile](http://startupchile.org/), I decided to write my own list, a coffee-scented nostalgia tour of the places where I've been coding, chatting, and quaffing coffee these past few months. 
 
 <div class="center-image">
-  <img width="400px" src="/assets/images/big_shoulders2.jpg">
-  <br/>
+  <img src="/assets/images/big_shoulders2.jpg">
   <div style="float: left; margin-top: 3px;">
     Big Shoulders Coffee.
   </div>

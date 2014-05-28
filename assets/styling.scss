@@ -1,0 +1,153 @@
+* { 
+  font-family: 'PT Sans', sans-serif;
+}
+
+body { 
+  background-color: #f7f7f7;
+  padding: 0px;
+  margin: 0px;
+}
+
+header#header { 
+  width: auto;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 20px;
+  background-color: #8B2323;
+  color: white;
+  height: 60px;
+}
+
+.big-text {
+  font-size: 15px;
+}
+
+.main-div { 
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.block {
+  height: 280px;
+  }
+
+.center-image {
+  padding: 20px;
+  background-color: white;
+  color: gray;
+  font-size: 12px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote p {
+  padding: 30px;
+  background-color: white;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+.textblock { 
+  position: relative !important ;
+  top: 20px !important ;
+}
+
+.circle-portrait {
+  float: left; 
+  width: 16em; 
+  height: 16em;
+  border-radius: 8em;
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  }
+
+.circle-portrait.alt {
+  -webkit-transform: rotate3d(0,1,0,360deg);
+  -moz-transform: rotate3d(0,1,0,360deg);
+  -o-transform: rotate3d(0,1,0,360deg);
+  -ms-transform: rotate3d(0,1,0,360deg);
+  transform: rotate3d(0,1,0,360deg);
+}
+
+.circle-portrait.right {
+  float: right;
+  } 
+
+  
+#profile-image {
+  background: url("images/Profile.jpg");
+  }
+
+#profile-image.alt {
+  background: url("images/profile-pic-alt.jpg");
+  }
+
+#heyu-image {
+  background: url("images/heyu-pic.png");
+  }
+
+#heyu-image.alt {
+  background: url("images/heyu-pic-alt.png");
+  }
+
+#divvybrags-image {
+  background: url("images/divvy-biking.jpg");
+  }
+
+#divvybrags-image.alt {
+  background: url("images/divvy-image-alt.png");
+  }
+
+#lscmap-image {
+  background: url("images/lscmap.jpg");
+  }
+
+#lscmap-image.alt {
+  background: url("images/lscmap-alt.jpg");
+  }
+
+#cpsb2s-image {
+  background: url("images/cpsb2s.jpg");
+  }
+
+#cpsb2s-image.alt {
+  background: url("images/cps-b2s-alt.png");
+  }
+
+
+#footer {
+  position: relative;
+  margin-top: -90px; 
+  right: 10px;
+  top: 10px;
+  background-color: #8B2323;
+  height: 120px;
+  width: 120%;
+  clear: both;
+  } 
+
+#footer p { 
+  color: white;
+  }
+#footer h2 { 
+  color: white;
+  }
+#footer p a { 
+  color: white;
+  }
+#header a { 
+  color: white;
+  }
