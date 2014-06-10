@@ -74,13 +74,12 @@ footer {
 } 
 
 .container {
-  width: 60%;
-  margin: 1em 0;
-  margin: auto auto;
+  width: 60% !important;
+  margin: 6em auto !important;
 }
 
 .block {
-  margin: 8em auto;
+  margin: 0 auto 12em;
   position: relative;
   min-height: 200px;
   h1, h2, p {

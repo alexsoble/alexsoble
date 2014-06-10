@@ -86,24 +86,23 @@ footer p, footer h2, footer a {
 
 /* line 76, ../_sass/styling.scss */
 .container {
-  width: 60%;
-  margin: 1em 0;
-  margin: auto auto;
+  width: 60% !important;
+  margin: 6em auto !important;
 }
 
-/* line 82, ../_sass/styling.scss */
+/* line 81, ../_sass/styling.scss */
 .block {
-  margin: 8em auto;
+  margin: 0 auto 12em;
   position: relative;
   min-height: 200px;
 }
-/* line 86, ../_sass/styling.scss */
+/* line 85, ../_sass/styling.scss */
 .block h1, .block h2, .block p {
   margin-left: 4%;
 }
 
 /*** HOMEPAGE IMAGES ***/
-/* line 93, ../_sass/styling.scss */
+/* line 92, ../_sass/styling.scss */
 .circle-portrait {
   width: 13em;
   height: 13em;
@@ -124,7 +123,7 @@ footer p, footer h2, footer a {
   transform-style: preserve-3d;
 }
 
-/* line 115, ../_sass/styling.scss */
+/* line 114, ../_sass/styling.scss */
 .circle-portrait.alt {
   -webkit-transform: rotate3d(0, 1, 0, 360deg);
   -moz-transform: rotate3d(0, 1, 0, 360deg);
@@ -133,90 +132,90 @@ footer p, footer h2, footer a {
   transform: rotate3d(0, 1, 0, 360deg);
 }
 
-/* line 123, ../_sass/styling.scss */
+/* line 122, ../_sass/styling.scss */
 .circle-portrait.right {
   float: right;
 }
 
-/* line 125, ../_sass/styling.scss */
+/* line 124, ../_sass/styling.scss */
 #profile-image {
   background: url("/assets/images/profile-pic.jpg");
 }
 
-/* line 127, ../_sass/styling.scss */
+/* line 126, ../_sass/styling.scss */
 #profile-image.alt {
   background: url("/assets/images/profile-pic-alt.jpg");
 }
 
-/* line 129, ../_sass/styling.scss */
+/* line 128, ../_sass/styling.scss */
 #heyu-image {
   background: url("/assets/images/heyu-pic.png");
 }
 
-/* line 131, ../_sass/styling.scss */
+/* line 130, ../_sass/styling.scss */
 #heyu-image.alt {
   background: url("/assets/images/heyu-pic-alt.png");
 }
 
-/* line 133, ../_sass/styling.scss */
+/* line 132, ../_sass/styling.scss */
 #divvybrags-image {
   background: url("/assets/images/divvy-biking.jpg");
 }
 
-/* line 135, ../_sass/styling.scss */
+/* line 134, ../_sass/styling.scss */
 #divvybrags-image.alt {
   background: url("/assets/images/divvy-image-alt.png");
 }
 
-/* line 137, ../_sass/styling.scss */
+/* line 136, ../_sass/styling.scss */
 #lscmap-image {
   background: url("/assets/images/lscmap.jpg");
 }
 
-/* line 139, ../_sass/styling.scss */
+/* line 138, ../_sass/styling.scss */
 #lscmap-image.alt {
   background: url("/assets/images/lscmap-alt.jpg");
 }
 
-/* line 141, ../_sass/styling.scss */
+/* line 140, ../_sass/styling.scss */
 #cpsb2s-image {
   background: url("/assets/images/cpsb2s.jpg");
 }
 
-/* line 143, ../_sass/styling.scss */
+/* line 142, ../_sass/styling.scss */
 #cpsb2s-image.alt {
   background: url("/assets/images/cps-b2s-alt.png");
 }
 
-/* line 145, ../_sass/styling.scss */
+/* line 144, ../_sass/styling.scss */
 #ltd-image {
   background: url("/assets/images/ltd-image.png");
 }
 
-/* line 147, ../_sass/styling.scss */
+/* line 146, ../_sass/styling.scss */
 #ltd-image.alt {
   background: url("/assets/images/ltd-image-alt.jpg");
 }
 
-/* line 149, ../_sass/styling.scss */
+/* line 148, ../_sass/styling.scss */
 #railsgirls-image {
   background: url("/assets/images/railsgirls.jpg");
 }
 
-/* line 151, ../_sass/styling.scss */
+/* line 150, ../_sass/styling.scss */
 #railsgirls-image.alt {
   background: url("/assets/images/railsgirls-alt.jpg");
 }
 
 /*** BLOG POST STYLES ***/
-/* line 155, ../_sass/styling.scss */
+/* line 154, ../_sass/styling.scss */
 blockquote p {
   margin: 3em 1em;
   padding: 1em 3em;
   background-color: white;
 }
 
-/* line 161, ../_sass/styling.scss */
+/* line 160, ../_sass/styling.scss */
 .center-image {
   background-color: white;
   color: gray;
