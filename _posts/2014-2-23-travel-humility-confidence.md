@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Travel, Humility, Confidence
+tags:
+- Chile
 ---
 Travel, Humility, Confidence
 ================================

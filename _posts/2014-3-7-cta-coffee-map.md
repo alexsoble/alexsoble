@@ -1,6 +1,8 @@
 ---
 layout: default
 title: CTA Coffee Map
+tags:
+- Chicago
 ---
 CTA Coffee Map
 ================================

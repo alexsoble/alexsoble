@@ -1,7 +1,6 @@
 $(function() {
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    // console.log(scroll);
     if (100 > scroll) {
       if (!$('.circle-portrait').eq(0).hasClass('alt')) {
           $('.circle-portrait').eq(0).addClass('alt');

@@ -1,9 +1,11 @@
 /*** OVERALL STYLES ***/
 
 * { 
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
+}
+
+html {
   margin: 0;
-  font-size: 103%; 
 }
 
 body { 
@@ -11,6 +13,11 @@ body {
   padding: 0px;
   background-color: #f7f7f7;
 }
+
+p, i {
+  font-size: 16px;
+}
+
 
 /*** HEADER AND FOOTER STYLES ***/
 
@@ -31,6 +38,7 @@ header {
     #blog-link {
       position: relative;
       bottom: 0.75em;
+      text-decoration: underline;
     }
   }
 }
@@ -66,29 +74,25 @@ footer {
 } 
 
 .container {
-  width: 80%;
+  width: 60%;
   margin: 1em 0;
-  .narrow {
-    width: 60%;
-    margin: auto auto;
-  }
+  margin: auto auto;
 }
 
 .block {
-  margin: 1em 1em 12em;
+  margin: 8em auto;
   position: relative;
-}
-
-.textblock { 
-  margin: 4em;
+  min-height: 200px;
+  h1, h2, p {
+    margin-left: 4%;
+  }
 }
 
 /*** HOMEPAGE IMAGES ***/
 
-
 .circle-portrait {
-  width: 14em; 
-  height: 14em;
+  width: 13em; 
+  height: 13em;
   border-radius: 7em;
   margin: 2em;
   float: left; 
@@ -118,7 +122,7 @@ footer {
 
 .circle-portrait.right { float: right; } 
   
-#profile-image { background: url("/assets/images/Profile.jpg"); }
+#profile-image { background: url("/assets/images/profile-pic.jpg"); }
 
 #profile-image.alt { background: url("/assets/images/profile-pic-alt.jpg"); }
 
@@ -137,6 +141,14 @@ footer {
 #cpsb2s-image { background: url("/assets/images/cpsb2s.jpg"); }
 
 #cpsb2s-image.alt { background: url("/assets/images/cps-b2s-alt.png"); }
+
+#ltd-image { background: url("/assets/images/ltd-image.png"); }
+
+#ltd-image.alt { background: url("/assets/images/ltd-image-alt.jpg"); }
+
+#railsgirls-image { background: url("/assets/images/railsgirls.jpg"); }
+
+#railsgirls-image.alt { background: url("/assets/images/railsgirls-alt.jpg"); }
 
 /*** BLOG POST STYLES ***/
 

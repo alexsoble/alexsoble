@@ -2,13 +2,10 @@
 layout: default
 title: Blog
 ---
-<div class="narrow">
+
+<h1>Blog<h1>
+{% for post in site.posts %}
+  <p>{{ post.date | date: "%B %e, %Y" }}:
   <br/>
-  <br/>
-  <br/>
-  {% for post in site.posts %}
-    <p>{{ post.date | date: "%B %e, %Y" }}:
-    <br/>
-    <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a></p>
-  {% endfor %}
-</div>
+  <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a></p>
+{% endfor %}

@@ -1,107 +1,112 @@
 /*** OVERALL STYLES ***/
 /* line 3, ../_sass/styling.scss */
 * {
-  font-family: 'PT Sans', sans-serif;
-  margin: 0;
-  font-size: 103%;
+  font-family: "PT Sans", sans-serif;
 }
 
-/* line 9, ../_sass/styling.scss */
+/* line 7, ../_sass/styling.scss */
+html {
+  margin: 0;
+}
+
+/* line 11, ../_sass/styling.scss */
 body {
   height: 100%;
   padding: 0px;
   background-color: #f7f7f7;
 }
 
-/*** HEADER AND FOOTER STYLES ***/
 /* line 17, ../_sass/styling.scss */
+p, i {
+  font-size: 16px;
+}
+
+/*** HEADER AND FOOTER STYLES ***/
+/* line 24, ../_sass/styling.scss */
 header {
   background-color: #8B2323;
 }
-/* line 19, ../_sass/styling.scss */
+/* line 26, ../_sass/styling.scss */
 header .container-fluid {
   width: 80%;
 }
-/* line 22, ../_sass/styling.scss */
+/* line 29, ../_sass/styling.scss */
 header .wordmark {
   margin: 1em 0 0;
 }
-/* line 25, ../_sass/styling.scss */
+/* line 32, ../_sass/styling.scss */
 header .header-menu {
   margin: 2.5em 0 0;
 }
-/* line 27, ../_sass/styling.scss */
+/* line 34, ../_sass/styling.scss */
 header .header-menu .header-icon {
   float: left;
   margin-right: 1em;
 }
-/* line 31, ../_sass/styling.scss */
+/* line 38, ../_sass/styling.scss */
 header .header-menu #blog-link {
   position: relative;
   bottom: 0.75em;
+  text-decoration: underline;
 }
 
-/* line 39, ../_sass/styling.scss */
+/* line 47, ../_sass/styling.scss */
 header h1, header h2, header p, header a, footer h1, footer h2, footer p, footer a {
   color: white !important;
 }
-/* line 41, ../_sass/styling.scss */
+/* line 49, ../_sass/styling.scss */
 header h1 :hover, header h2 :hover, header p :hover, header a :hover, footer h1 :hover, footer h2 :hover, footer p :hover, footer a :hover {
   opacity: 0.5 !important;
 }
 
-/* line 47, ../_sass/styling.scss */
+/* line 55, ../_sass/styling.scss */
 .page-wrap {
   min-height: 100%;
   margin-bottom: -120px;
   /* equal to footer height */
 }
 
-/* line 53, ../_sass/styling.scss */
+/* line 61, ../_sass/styling.scss */
 .page-wrap:after {
   content: "";
   display: block;
   height: 120px;
 }
 
-/* line 59, ../_sass/styling.scss */
+/* line 67, ../_sass/styling.scss */
 footer {
   height: 120px;
   padding: 2%;
   background-color: #8B2323;
 }
-/* line 63, ../_sass/styling.scss */
+/* line 71, ../_sass/styling.scss */
 footer p, footer h2, footer a {
   color: white;
 }
 
-/* line 68, ../_sass/styling.scss */
+/* line 76, ../_sass/styling.scss */
 .container {
-  width: 80%;
-  margin: 1em 0;
-}
-/* line 71, ../_sass/styling.scss */
-.container .narrow {
   width: 60%;
+  margin: 1em 0;
   margin: auto auto;
 }
 
-/* line 77, ../_sass/styling.scss */
-.block {
-  margin: 1em 1em 12em;
-  position: relative;
-}
-
 /* line 82, ../_sass/styling.scss */
-.textblock {
-  margin: 4em;
+.block {
+  margin: 8em auto;
+  position: relative;
+  min-height: 200px;
+}
+/* line 86, ../_sass/styling.scss */
+.block h1, .block h2, .block p {
+  margin-left: 4%;
 }
 
 /*** HOMEPAGE IMAGES ***/
-/* line 89, ../_sass/styling.scss */
+/* line 93, ../_sass/styling.scss */
 .circle-portrait {
-  width: 14em;
-  height: 14em;
+  width: 13em;
+  height: 13em;
   border-radius: 7em;
   margin: 2em;
   float: left;
@@ -119,7 +124,7 @@ footer p, footer h2, footer a {
   transform-style: preserve-3d;
 }
 
-/* line 111, ../_sass/styling.scss */
+/* line 115, ../_sass/styling.scss */
 .circle-portrait.alt {
   -webkit-transform: rotate3d(0, 1, 0, 360deg);
   -moz-transform: rotate3d(0, 1, 0, 360deg);
@@ -128,70 +133,90 @@ footer p, footer h2, footer a {
   transform: rotate3d(0, 1, 0, 360deg);
 }
 
-/* line 119, ../_sass/styling.scss */
+/* line 123, ../_sass/styling.scss */
 .circle-portrait.right {
   float: right;
 }
 
-/* line 121, ../_sass/styling.scss */
+/* line 125, ../_sass/styling.scss */
 #profile-image {
-  background: url("/assets/images/Profile.jpg");
+  background: url("/assets/images/profile-pic.jpg");
 }
 
-/* line 123, ../_sass/styling.scss */
+/* line 127, ../_sass/styling.scss */
 #profile-image.alt {
   background: url("/assets/images/profile-pic-alt.jpg");
 }
 
-/* line 125, ../_sass/styling.scss */
+/* line 129, ../_sass/styling.scss */
 #heyu-image {
   background: url("/assets/images/heyu-pic.png");
 }
 
-/* line 127, ../_sass/styling.scss */
+/* line 131, ../_sass/styling.scss */
 #heyu-image.alt {
   background: url("/assets/images/heyu-pic-alt.png");
 }
 
-/* line 129, ../_sass/styling.scss */
+/* line 133, ../_sass/styling.scss */
 #divvybrags-image {
   background: url("/assets/images/divvy-biking.jpg");
 }
 
-/* line 131, ../_sass/styling.scss */
+/* line 135, ../_sass/styling.scss */
 #divvybrags-image.alt {
   background: url("/assets/images/divvy-image-alt.png");
 }
 
-/* line 133, ../_sass/styling.scss */
+/* line 137, ../_sass/styling.scss */
 #lscmap-image {
   background: url("/assets/images/lscmap.jpg");
 }
 
-/* line 135, ../_sass/styling.scss */
+/* line 139, ../_sass/styling.scss */
 #lscmap-image.alt {
   background: url("/assets/images/lscmap-alt.jpg");
 }
 
-/* line 137, ../_sass/styling.scss */
+/* line 141, ../_sass/styling.scss */
 #cpsb2s-image {
   background: url("/assets/images/cpsb2s.jpg");
 }
 
-/* line 139, ../_sass/styling.scss */
+/* line 143, ../_sass/styling.scss */
 #cpsb2s-image.alt {
   background: url("/assets/images/cps-b2s-alt.png");
 }
 
+/* line 145, ../_sass/styling.scss */
+#ltd-image {
+  background: url("/assets/images/ltd-image.png");
+}
+
+/* line 147, ../_sass/styling.scss */
+#ltd-image.alt {
+  background: url("/assets/images/ltd-image-alt.jpg");
+}
+
+/* line 149, ../_sass/styling.scss */
+#railsgirls-image {
+  background: url("/assets/images/railsgirls.jpg");
+}
+
+/* line 151, ../_sass/styling.scss */
+#railsgirls-image.alt {
+  background: url("/assets/images/railsgirls-alt.jpg");
+}
+
 /*** BLOG POST STYLES ***/
-/* line 143, ../_sass/styling.scss */
+/* line 155, ../_sass/styling.scss */
 blockquote p {
   margin: 3em 1em;
   padding: 1em 3em;
   background-color: white;
 }
 
-/* line 149, ../_sass/styling.scss */
+/* line 161, ../_sass/styling.scss */
 .center-image {
   background-color: white;
   color: gray;

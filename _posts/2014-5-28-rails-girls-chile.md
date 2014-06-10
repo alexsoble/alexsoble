@@ -1,6 +1,9 @@
 ---
 layout: default
 title: RailsGirls Chile
+tags:
+- Chile
+- code
 ---
 
 <div class="storify">
