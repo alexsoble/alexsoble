@@ -221,3 +221,46 @@ blockquote p {
   color: gray;
   margin: auto auto;
 }
+
+/* line 168, ../_sass/styling.scss */
+.slideshow-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 0;
+  overflow: hidden;
+  width: 45%;
+  margin-left: 3%;
+  float: left;
+}
+
+/* line 181, ../_sass/styling.scss */
+.slideshow-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 189, ../_sass/styling.scss */
+.image-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 0;
+  overflow: hidden;
+}
+
+/* line 199, ../_sass/styling.scss */
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

@@ -162,3 +162,44 @@ blockquote p {
   color: gray;
   margin: auto auto;
 }
+
+// RESPONSIVE EMBEDDED CONTENT //
+
+.slideshow-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 0;
+    overflow: hidden;
+    width: 45%; 
+    margin-left: 3%;
+    float: left;
+}
+
+.slideshow-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.image-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 0;
+    overflow: hidden;
+}
+
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
