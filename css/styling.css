@@ -216,13 +216,19 @@ blockquote p {
 }
 
 /* line 160, ../_sass/styling.scss */
+.twitter-wrapper {
+  margin: 24px auto;
+  max-width: 420px;
+}
+
+/* line 165, ../_sass/styling.scss */
 .center-image {
   background-color: white;
   color: gray;
   margin: auto auto;
 }
 
-/* line 168, ../_sass/styling.scss */
+/* line 173, ../_sass/styling.scss */
 .slideshow-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -236,7 +242,7 @@ blockquote p {
   float: left;
 }
 
-/* line 181, ../_sass/styling.scss */
+/* line 186, ../_sass/styling.scss */
 .slideshow-container iframe {
   position: absolute;
   top: 0;
@@ -245,7 +251,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 189, ../_sass/styling.scss */
+/* line 194, ../_sass/styling.scss */
 .image-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -256,7 +262,7 @@ blockquote p {
   overflow: hidden;
 }
 
-/* line 199, ../_sass/styling.scss */
+/* line 204, ../_sass/styling.scss */
 .image-container img {
   position: absolute;
   top: 0;
