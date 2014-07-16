@@ -41,7 +41,7 @@ header .header-menu {
 /* line 34, ../_sass/styling.scss */
 header .header-menu .header-icon {
   float: left;
-  margin-right: 1em;
+  margin-left: 1em;
 }
 /* line 38, ../_sass/styling.scss */
 header .header-menu #blog-link {
