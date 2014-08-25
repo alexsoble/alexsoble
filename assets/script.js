@@ -1,43 +1,43 @@
+function flipImage (image) {
+  if (!(image.hasClass("alt"))) {
+    image.addClass("alt") 
+  }
+  console.log('flipping');
+}
+
+function unflipImage (image) {
+  if (image.hasClass("alt")) {
+    image.removeClass("alt") 
+  }
+}
+
+function fetchImage (imagenumber) {
+  return $('.circle-portrait').eq(imagenumber)
+}
+
 $(function() {
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    if (100 > scroll) {
-      if (!$('.circle-portrait').eq(0).hasClass('alt')) {
-          $('.circle-portrait').eq(0).addClass('alt');
-        }
-      if ($('.circle-portrait').eq(1).hasClass('alt')) {
-          $('.circle-portrait').eq(1).removeClass('alt'); 
-        }
-      }
-    if (719 > scroll && scroll > 300) {
-      if (!$('.circle-portrait').eq(1).hasClass('alt')) {
-          $('.circle-portrait').eq(1).addClass('alt');
-        }
-      if ($('.circle-portrait').eq(2).hasClass('alt')) {
-          $('.circle-portrait').eq(2).removeClass('alt'); 
-        }
-      }
-    if (scroll > 660) {
-      if (!$('.circle-portrait').eq(2).hasClass('alt')) {
-          $('.circle-portrait').eq(2).addClass('alt'); 
-        }
-      if ($('.circle-portrait').eq(3).hasClass('alt')) {
-          $('.circle-portrait').eq(3).removeClass('alt'); 
-        }
-      }      
-    if (scroll > 800) {
-      if (!$('.circle-portrait').eq(3).hasClass('alt')) {
-          $('.circle-portrait').eq(3).addClass('alt');
-        }
-      if ($('.circle-portrait').eq(4).hasClass('alt')) {
-          $('.circle-portrait').eq(4).removeClass('alt');
-        }
-      }      
-    if (scroll > 1000) {
-      if (!$('.circle-portrait').eq(4).hasClass('alt')) {
-          $('.circle-portrait').eq(4).addClass('alt');
-        }
-      }      
+    if (scroll > 1700) {
+      flipImage(fetchImage(5));
+    } else if (scroll > 1500) {
+      flipImage(fetchImage(4));
+      unflipImage(fetchImage(5));
+    } else if (scroll > 1200) {
+      flipImage(fetchImage(3));
+      unflipImage(fetchImage(4));
+    } else if (scroll > 700) {
+      flipImage(fetchImage(2));
+      unflipImage(fetchImage(3));
+    } else if (600 > scroll) {
+      flipImage(fetchImage(1));
+      unflipImage(fetchImage(2));
+    } else if (300 > scroll) {
+      flipImage(fetchImage(0));
+      unflipImage(fetchImage(1));
+    } else if (100 > scroll) { 
+      unflipImage(fetchImage(0));
+    }
   });
   $("#crains").fancybox();
 });
