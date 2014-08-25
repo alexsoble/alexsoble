@@ -14,8 +14,19 @@ body {
   background-color: #f7f7f7;
 }
 
-p, i {
-  font-size: 16px;
+@media only screen and (min-width: 481px) {
+  p, i { font-size: 16px; }
+  h1 { font-size: 40px; }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  p, i { font-size: 20px; }
+  h1 { font-size: 50px; }
+
+}
+@media only screen and (max-width: 320px) {
+  p, i { font-size: 24px; }
+  h1  { font-size: 60px; }
 }
 
 
