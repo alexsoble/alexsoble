@@ -15,10 +15,10 @@ As I get ready to depart Chicago in a few weeks for [Start-Up Chile](http://star
 
 <div class="center-image">
   <img src="/assets/images/big_shoulders2.jpg">
-  <div style="float: left; margin-top: 3px;">
+  <div class="left caption">
     Big Shoulders Coffee.
   </div>
-  <div style="float: right; margin-top: 3px;">
+  <div class="right caption">
     Photo credit: Mark M / Foursquare
   </div>
 </div>

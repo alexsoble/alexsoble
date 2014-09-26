@@ -174,11 +174,29 @@ blockquote p {
   max-width: 420px;
 }
 
-.center-image {
+.slideshow-wrapper {
   background-color: white;
-  color: gray;
-  margin: auto auto;
+  color: #808080;
 }
+.slideshow-wrapper.left {
+  float: right;
+  margin-left: 3em;
+}
+.slideshow-wrapper#banner-slide {
+  margin-bottom: 6em;
+}
+.caption {
+  width: 40%;
+  margin: 0 3px 6px; 
+  font-size: 12px;
+} 
+.left {
+  float: left; 
+}
+.right {
+  float: right; 
+}
+
 
 // RESPONSIVE EMBEDDED CONTENT //
 

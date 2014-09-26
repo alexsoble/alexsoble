@@ -251,13 +251,40 @@ blockquote p {
 }
 
 /* line 177, ../_sass/styling.scss */
-.center-image {
+.slideshow-wrapper {
   background-color: white;
-  color: gray;
-  margin: auto auto;
+  color: #808080;
+}
+
+/* line 181, ../_sass/styling.scss */
+.slideshow-wrapper.left {
+  float: right;
+  margin-left: 3em;
 }
 
 /* line 185, ../_sass/styling.scss */
+.slideshow-wrapper#banner-slide {
+  margin-bottom: 6em;
+}
+
+/* line 188, ../_sass/styling.scss */
+.caption {
+  width: 40%;
+  margin: 0 3px 6px;
+  font-size: 12px;
+}
+
+/* line 193, ../_sass/styling.scss */
+.left {
+  float: left;
+}
+
+/* line 196, ../_sass/styling.scss */
+.right {
+  float: right;
+}
+
+/* line 203, ../_sass/styling.scss */
 .slideshow-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -271,7 +298,7 @@ blockquote p {
   float: left;
 }
 
-/* line 198, ../_sass/styling.scss */
+/* line 216, ../_sass/styling.scss */
 .slideshow-container iframe {
   position: absolute;
   top: 0;
@@ -280,7 +307,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 206, ../_sass/styling.scss */
+/* line 224, ../_sass/styling.scss */
 .image-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -291,7 +318,7 @@ blockquote p {
   overflow: hidden;
 }
 
-/* line 216, ../_sass/styling.scss */
+/* line 234, ../_sass/styling.scss */
 .image-container img {
   position: absolute;
   top: 0;
