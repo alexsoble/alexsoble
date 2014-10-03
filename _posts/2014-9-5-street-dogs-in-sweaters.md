@@ -2,7 +2,11 @@
 layout: default
 title: Street dogs in sweaters
 tags:
-- Chile
+  - Chile
+extra_js:
+  - bjqs-1.3.min.js
+extra_css:
+  - bjqs.css
 ---
 
 Street dogs in sweaters

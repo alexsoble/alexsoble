@@ -2,8 +2,7 @@
 layout: default
 title: Yo&#58; Learn, don't burn
 tags:
-- startups
-- civic tech
+- civic-tech
 ---
 
 Yo: Learn, don't burn

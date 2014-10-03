@@ -284,7 +284,13 @@ blockquote p {
   float: right;
 }
 
-/* line 203, ../_sass/styling.scss */
+/* line 202, ../_sass/styling.scss */
+.blog-description {
+  margin-bottom: 36px;
+  font-style: italic;
+}
+
+/* line 209, ../_sass/styling.scss */
 .slideshow-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -298,7 +304,7 @@ blockquote p {
   float: left;
 }
 
-/* line 216, ../_sass/styling.scss */
+/* line 222, ../_sass/styling.scss */
 .slideshow-container iframe {
   position: absolute;
   top: 0;
@@ -307,7 +313,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 224, ../_sass/styling.scss */
+/* line 230, ../_sass/styling.scss */
 .image-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -318,7 +324,7 @@ blockquote p {
   overflow: hidden;
 }
 
-/* line 234, ../_sass/styling.scss */
+/* line 240, ../_sass/styling.scss */
 .image-container img {
   position: absolute;
   top: 0;
