@@ -332,3 +332,9 @@ blockquote p {
   width: 100%;
   height: 100%;
 }
+
+/* line 248, ../_sass/styling.scss */
+.center-glyph {
+  width: 12px;
+  margin: 12px auto;
+}
