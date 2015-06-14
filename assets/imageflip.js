@@ -18,11 +18,8 @@ function fetchImage (imagenumber) {
 $(function() {
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    if (scroll > 1700) {
-      flipImage(fetchImage(5));
-    } else if (scroll > 1500) {
+    if (scroll > 1400) {
       flipImage(fetchImage(4));
-      unflipImage(fetchImage(5));
     } else if (scroll > 1200) {
       flipImage(fetchImage(3));
       unflipImage(fetchImage(4));

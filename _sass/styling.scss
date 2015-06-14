@@ -1,6 +1,6 @@
 /*** OVERALL STYLES ***/
 
-* { 
+* {
   font-family: "PT Sans", sans-serif;
 }
 
@@ -8,7 +8,7 @@ html {
   margin: 0;
 }
 
-body { 
+body {
   height: 100%;
   padding: 0px;
   background-color: #f7f7f7;
@@ -32,7 +32,7 @@ body {
 
 /*** HEADER AND FOOTER STYLES ***/
 
-header { 
+header {
   background-color: #8B2323;
   .container-fluid {
     width: 80%;
@@ -45,7 +45,7 @@ header {
     .header-icon {
       float: left;
       margin-right: 1em;
-    } 
+    }
     #blog-link {
       position: relative;
       bottom: 0.75em;
@@ -66,24 +66,24 @@ header, footer {
 
 .page-wrap {
   min-height: 100%;
-  margin-bottom: -120px; 
+  margin-bottom: -120px;
   /* equal to footer height */
 }
 
 .page-wrap:after {
   content: "";
   display: block;
-  height: 120px; 
+  height: 120px;
 }
 
 footer {
-  height: 120px; 
+  height: 120px;
   padding: 0 2%;
   background-color: #8B2323;
   p, h2, a {
     color: white;
   }
-} 
+}
 
 .container {
   width: 60% !important;
@@ -102,11 +102,11 @@ footer {
 /*** HOMEPAGE IMAGES ***/
 
 .circle-portrait {
-  width: 13em; 
+  width: 13em;
   height: 13em;
   border-radius: 7em;
   margin: 2em;
-  float: left; 
+  float: left;
   position: relative;
   bottom: 2em;
 
@@ -115,7 +115,7 @@ footer {
   -o-transition: all 0.8s ease-in-out;
   -ms-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
-  
+
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   -o-transform-style: preserve-3d;
@@ -131,8 +131,8 @@ footer {
   transform: rotate3d(0,1,0,360deg);
 }
 
-.circle-portrait.right { float: right; } 
-  
+.circle-portrait.right { float: right; }
+
 #profile-image { background: url("/assets/images/profile-pic.jpg"); }
 
 #profile-image.alt { background: url("/assets/images/profile-pic-alt.jpg"); }
@@ -148,10 +148,6 @@ footer {
 #lscmap-image { background: url("/assets/images/lscmap.jpg"); }
 
 #lscmap-image.alt { background: url("/assets/images/lscmap-alt.jpg"); }
-
-#cpsb2s-image { background: url("/assets/images/cpsb2s.jpg"); }
-
-#cpsb2s-image.alt { background: url("/assets/images/cps-b2s-alt.png"); }
 
 #cfa-image { background: url("/assets/images/somerville-city-hall.jpg"); }
 
@@ -187,14 +183,14 @@ blockquote p {
 }
 .caption {
   width: 40%;
-  margin: 0 3px 6px; 
+  margin: 0 3px 6px;
   font-size: 12px;
-} 
+}
 .left {
-  float: left; 
+  float: left;
 }
 .right {
-  float: right; 
+  float: right;
 }
 
 // BLOG HOMEPAGE //
@@ -214,7 +210,7 @@ blockquote p {
     margin-bottom: 10px;
     height: 0;
     overflow: hidden;
-    width: 45%; 
+    width: 45%;
     margin-left: 3%;
     float: left;
 }
@@ -245,7 +241,7 @@ blockquote p {
     height: 100%;
 }
 
-.center-glyph { 
+.center-glyph {
   width: 12px;
   margin: 12px auto;
 }

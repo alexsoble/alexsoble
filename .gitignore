@@ -1,4 +1,6 @@
 .DS_Store
+.sass-cache/
+css/
 _site/
 _drafts/
 gh-pages/
