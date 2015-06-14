@@ -2,7 +2,6 @@ function flipImage (image) {
   if (!(image.hasClass("alt"))) {
     image.addClass("alt")
   }
-  console.log('flipping');
 }
 
 function unflipImage (image) {
