@@ -1,13 +1,13 @@
 function flipImage (image) {
   if (!(image.hasClass("alt"))) {
-    image.addClass("alt") 
+    image.addClass("alt")
   }
   console.log('flipping');
 }
 
 function unflipImage (image) {
   if (image.hasClass("alt")) {
-    image.removeClass("alt") 
+    image.removeClass("alt")
   }
 }
 
@@ -35,7 +35,7 @@ $(function() {
     } else if (300 > scroll) {
       flipImage(fetchImage(0));
       unflipImage(fetchImage(1));
-    } else if (100 > scroll) { 
+    } else if (100 > scroll) {
       unflipImage(fetchImage(0));
     }
   });
