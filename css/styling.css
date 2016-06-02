@@ -19,7 +19,7 @@ body {
 @media only screen and (min-width: 481px) {
   /* line 18, ../_sass/styling.scss */
   p, i {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   /* line 19, ../_sass/styling.scss */
@@ -207,90 +207,80 @@ footer p, footer h2, footer a {
 }
 
 /* line 152, ../_sass/styling.scss */
-#cpsb2s-image {
-  background: url("/assets/images/cpsb2s.jpg");
-}
-
-/* line 154, ../_sass/styling.scss */
-#cpsb2s-image.alt {
-  background: url("/assets/images/cps-b2s-alt.png");
-}
-
-/* line 156, ../_sass/styling.scss */
 #cfa-image {
   background: url("/assets/images/somerville-city-hall.jpg");
 }
 
-/* line 158, ../_sass/styling.scss */
+/* line 154, ../_sass/styling.scss */
 #cfa-image.alt {
   background: url("/assets/images/somerville-seal.jpg");
 }
 
-/* line 160, ../_sass/styling.scss */
+/* line 156, ../_sass/styling.scss */
 #railsgirls-image {
   background: url("/assets/images/railsgirls.jpg");
 }
 
-/* line 162, ../_sass/styling.scss */
+/* line 158, ../_sass/styling.scss */
 #railsgirls-image.alt {
   background: url("/assets/images/railsgirls-alt.jpg");
 }
 
 /*** BLOG POST STYLES ***/
-/* line 166, ../_sass/styling.scss */
+/* line 162, ../_sass/styling.scss */
 blockquote p {
   margin: 3em 1em;
   padding: 1em 3em;
   background-color: white;
 }
 
-/* line 172, ../_sass/styling.scss */
+/* line 168, ../_sass/styling.scss */
 .twitter-wrapper {
   margin: 24px auto;
   max-width: 420px;
 }
 
-/* line 177, ../_sass/styling.scss */
+/* line 173, ../_sass/styling.scss */
 .slideshow-wrapper {
   background-color: white;
   color: #808080;
 }
 
-/* line 181, ../_sass/styling.scss */
+/* line 177, ../_sass/styling.scss */
 .slideshow-wrapper.left {
   float: right;
   margin-left: 3em;
 }
 
-/* line 185, ../_sass/styling.scss */
+/* line 181, ../_sass/styling.scss */
 .slideshow-wrapper#banner-slide {
   margin-bottom: 6em;
 }
 
-/* line 188, ../_sass/styling.scss */
+/* line 184, ../_sass/styling.scss */
 .caption {
   width: 40%;
   margin: 0 3px 6px;
   font-size: 12px;
 }
 
-/* line 193, ../_sass/styling.scss */
+/* line 189, ../_sass/styling.scss */
 .left {
   float: left;
 }
 
-/* line 196, ../_sass/styling.scss */
+/* line 192, ../_sass/styling.scss */
 .right {
   float: right;
 }
 
-/* line 202, ../_sass/styling.scss */
+/* line 198, ../_sass/styling.scss */
 .blog-description {
   margin-bottom: 36px;
   font-style: italic;
 }
 
-/* line 209, ../_sass/styling.scss */
+/* line 205, ../_sass/styling.scss */
 .slideshow-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -304,7 +294,7 @@ blockquote p {
   float: left;
 }
 
-/* line 222, ../_sass/styling.scss */
+/* line 218, ../_sass/styling.scss */
 .slideshow-container iframe {
   position: absolute;
   top: 0;
@@ -313,7 +303,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 230, ../_sass/styling.scss */
+/* line 226, ../_sass/styling.scss */
 .image-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -324,7 +314,7 @@ blockquote p {
   overflow: hidden;
 }
 
-/* line 240, ../_sass/styling.scss */
+/* line 236, ../_sass/styling.scss */
 .image-container img {
   position: absolute;
   top: 0;
@@ -333,7 +323,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 248, ../_sass/styling.scss */
+/* line 244, ../_sass/styling.scss */
 .center-glyph {
   width: 12px;
   margin: 12px auto;
