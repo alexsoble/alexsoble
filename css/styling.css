@@ -16,62 +16,63 @@ body {
   background-color: #f7f7f7;
 }
 
+/*** RESPONSIVE FONT SIZE ***/
 @media only screen and (min-width: 481px) {
-  /* line 18, ../_sass/styling.scss */
-  p, i {
+  /* line 20, ../_sass/styling.scss */
+  p, i, li {
     font-size: 18px;
   }
 
-  /* line 19, ../_sass/styling.scss */
+  /* line 21, ../_sass/styling.scss */
   h1 {
     font-size: 40px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 480px) {
-  /* line 23, ../_sass/styling.scss */
+  /* line 25, ../_sass/styling.scss */
   p, i {
     font-size: 20px;
   }
 
-  /* line 24, ../_sass/styling.scss */
+  /* line 26, ../_sass/styling.scss */
   h1 {
     font-size: 50px;
   }
 }
 @media only screen and (max-width: 320px) {
-  /* line 28, ../_sass/styling.scss */
+  /* line 30, ../_sass/styling.scss */
   p, i {
     font-size: 24px;
   }
 
-  /* line 29, ../_sass/styling.scss */
+  /* line 31, ../_sass/styling.scss */
   h1 {
     font-size: 60px;
   }
 }
 /*** HEADER AND FOOTER STYLES ***/
-/* line 35, ../_sass/styling.scss */
+/* line 37, ../_sass/styling.scss */
 header {
   background-color: #8B2323;
 }
-/* line 37, ../_sass/styling.scss */
+/* line 39, ../_sass/styling.scss */
 header .container-fluid {
   width: 80%;
 }
-/* line 40, ../_sass/styling.scss */
+/* line 42, ../_sass/styling.scss */
 header .wordmark {
   margin: 1em 0 0;
 }
-/* line 43, ../_sass/styling.scss */
+/* line 45, ../_sass/styling.scss */
 header .header-menu {
   margin: 2.5em 0 0;
 }
-/* line 45, ../_sass/styling.scss */
+/* line 47, ../_sass/styling.scss */
 header .header-menu .header-icon {
   float: left;
   margin-right: 1em;
 }
-/* line 49, ../_sass/styling.scss */
+/* line 51, ../_sass/styling.scss */
 header .header-menu #blog-link {
   position: relative;
   bottom: 0.75em;
@@ -79,59 +80,67 @@ header .header-menu #blog-link {
   margin-right: 0.5em;
 }
 
-/* line 59, ../_sass/styling.scss */
+/* line 61, ../_sass/styling.scss */
 header h1, header h2, header p, header a, footer h1, footer h2, footer p, footer a {
   color: white !important;
 }
-/* line 61, ../_sass/styling.scss */
+/* line 63, ../_sass/styling.scss */
 header h1 :hover, header h2 :hover, header p :hover, header a :hover, footer h1 :hover, footer h2 :hover, footer p :hover, footer a :hover {
   opacity: 0.5 !important;
 }
 
-/* line 67, ../_sass/styling.scss */
+/* line 69, ../_sass/styling.scss */
 .page-wrap {
   min-height: 100%;
   margin-bottom: -120px;
   /* equal to footer height */
 }
 
-/* line 73, ../_sass/styling.scss */
+/* line 75, ../_sass/styling.scss */
 .page-wrap:after {
   content: "";
   display: block;
   height: 120px;
 }
 
-/* line 79, ../_sass/styling.scss */
+/* line 81, ../_sass/styling.scss */
 footer {
   height: 120px;
   padding: 0 2%;
   background-color: #8B2323;
 }
-/* line 83, ../_sass/styling.scss */
+/* line 85, ../_sass/styling.scss */
 footer p, footer h2, footer a {
   color: white;
 }
 
-/* line 88, ../_sass/styling.scss */
-.container {
-  width: 60% !important;
-  margin: 6em auto !important;
+/*** RESPONSIVE CONTAINER SIZE ***/
+@media only screen and (min-width: 481px) {
+  /* line 93, ../_sass/styling.scss */
+  .container {
+    width: 60% !important;
+    margin: 6em auto !important;
+  }
 }
-
-/* line 93, ../_sass/styling.scss */
+@media only screen and (max-width: 480px) {
+  /* line 100, ../_sass/styling.scss */
+  .container {
+    width: 90% !important;
+  }
+}
+/* line 105, ../_sass/styling.scss */
 .block {
   margin: 0 auto 12em;
   position: relative;
   min-height: 200px;
 }
-/* line 97, ../_sass/styling.scss */
+/* line 109, ../_sass/styling.scss */
 .block h1, .block h2, .block p {
   margin-left: 4%;
 }
 
 /*** HOMEPAGE IMAGES ***/
-/* line 104, ../_sass/styling.scss */
+/* line 116, ../_sass/styling.scss */
 .circle-portrait {
   width: 13em;
   height: 13em;
@@ -152,7 +161,7 @@ footer p, footer h2, footer a {
   transform-style: preserve-3d;
 }
 
-/* line 126, ../_sass/styling.scss */
+/* line 138, ../_sass/styling.scss */
 .circle-portrait.alt {
   -webkit-transform: rotate3d(0, 1, 0, 360deg);
   -moz-transform: rotate3d(0, 1, 0, 360deg);
@@ -161,126 +170,131 @@ footer p, footer h2, footer a {
   transform: rotate3d(0, 1, 0, 360deg);
 }
 
-/* line 134, ../_sass/styling.scss */
+/* line 146, ../_sass/styling.scss */
 .circle-portrait.right {
   float: right;
 }
 
-/* line 136, ../_sass/styling.scss */
+/* line 148, ../_sass/styling.scss */
 #profile-image {
   background: url("/assets/images/profile-pic.jpg");
 }
 
-/* line 138, ../_sass/styling.scss */
+/* line 150, ../_sass/styling.scss */
 #profile-image.alt {
   background: url("/assets/images/profile-pic-alt.jpg");
 }
 
-/* line 140, ../_sass/styling.scss */
+/* line 152, ../_sass/styling.scss */
 #heyu-image {
   background: url("/assets/images/heyu-pic.png");
 }
 
-/* line 142, ../_sass/styling.scss */
+/* line 154, ../_sass/styling.scss */
 #heyu-image.alt {
   background: url("/assets/images/heyu-pic-alt.png");
 }
 
-/* line 144, ../_sass/styling.scss */
+/* line 156, ../_sass/styling.scss */
 #divvybrags-image {
   background: url("/assets/images/divvy-biking.jpg");
 }
 
-/* line 146, ../_sass/styling.scss */
+/* line 158, ../_sass/styling.scss */
 #divvybrags-image.alt {
   background: url("/assets/images/divvy-image-alt.png");
 }
 
-/* line 148, ../_sass/styling.scss */
+/* line 160, ../_sass/styling.scss */
 #lscmap-image {
   background: url("/assets/images/lscmap.jpg");
 }
 
-/* line 150, ../_sass/styling.scss */
+/* line 162, ../_sass/styling.scss */
 #lscmap-image.alt {
   background: url("/assets/images/lscmap-alt.jpg");
 }
 
-/* line 152, ../_sass/styling.scss */
+/* line 164, ../_sass/styling.scss */
 #cfa-image {
   background: url("/assets/images/somerville-city-hall.jpg");
 }
 
-/* line 154, ../_sass/styling.scss */
+/* line 166, ../_sass/styling.scss */
 #cfa-image.alt {
   background: url("/assets/images/somerville-seal.jpg");
 }
 
-/* line 156, ../_sass/styling.scss */
+/* line 168, ../_sass/styling.scss */
 #railsgirls-image {
   background: url("/assets/images/railsgirls.jpg");
 }
 
-/* line 158, ../_sass/styling.scss */
+/* line 170, ../_sass/styling.scss */
 #railsgirls-image.alt {
   background: url("/assets/images/railsgirls-alt.jpg");
 }
 
 /*** BLOG POST STYLES ***/
-/* line 162, ../_sass/styling.scss */
+/* line 174, ../_sass/styling.scss */
 blockquote p {
   margin: 3em 1em;
   padding: 1em 3em;
   background-color: white;
 }
 
-/* line 168, ../_sass/styling.scss */
+/* line 180, ../_sass/styling.scss */
+.twitter-tweet {
+  margin: 2em !important;
+}
+
+/* line 184, ../_sass/styling.scss */
 .twitter-wrapper {
   margin: 24px auto;
   max-width: 420px;
 }
 
-/* line 173, ../_sass/styling.scss */
+/* line 189, ../_sass/styling.scss */
 .slideshow-wrapper {
   background-color: white;
   color: #808080;
 }
 
-/* line 177, ../_sass/styling.scss */
+/* line 193, ../_sass/styling.scss */
 .slideshow-wrapper.left {
   float: right;
   margin-left: 3em;
 }
 
-/* line 181, ../_sass/styling.scss */
+/* line 197, ../_sass/styling.scss */
 .slideshow-wrapper#banner-slide {
   margin-bottom: 6em;
 }
 
-/* line 184, ../_sass/styling.scss */
+/* line 200, ../_sass/styling.scss */
 .caption {
   width: 40%;
   margin: 0 3px 6px;
   font-size: 12px;
 }
 
-/* line 189, ../_sass/styling.scss */
+/* line 205, ../_sass/styling.scss */
 .left {
   float: left;
 }
 
-/* line 192, ../_sass/styling.scss */
+/* line 208, ../_sass/styling.scss */
 .right {
   float: right;
 }
 
-/* line 198, ../_sass/styling.scss */
+/* line 214, ../_sass/styling.scss */
 .blog-description {
   margin-bottom: 36px;
   font-style: italic;
 }
 
-/* line 205, ../_sass/styling.scss */
+/* line 221, ../_sass/styling.scss */
 .slideshow-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -294,7 +308,7 @@ blockquote p {
   float: left;
 }
 
-/* line 218, ../_sass/styling.scss */
+/* line 234, ../_sass/styling.scss */
 .slideshow-container iframe {
   position: absolute;
   top: 0;
@@ -303,7 +317,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 226, ../_sass/styling.scss */
+/* line 242, ../_sass/styling.scss */
 .image-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -314,7 +328,7 @@ blockquote p {
   overflow: hidden;
 }
 
-/* line 236, ../_sass/styling.scss */
+/* line 252, ../_sass/styling.scss */
 .image-container img {
   position: absolute;
   top: 0;
@@ -323,7 +337,7 @@ blockquote p {
   height: 100%;
 }
 
-/* line 244, ../_sass/styling.scss */
+/* line 260, ../_sass/styling.scss */
 .center-glyph {
   width: 12px;
   margin: 12px auto;

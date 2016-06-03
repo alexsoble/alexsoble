@@ -14,16 +14,18 @@ body {
   background-color: #f7f7f7;
 }
 
+/*** RESPONSIVE FONT SIZE ***/
+
 @media only screen and (min-width: 481px) {
-  p, i { font-size: 18px; }
+  p, i, li { font-size: 18px; }
   h1 { font-size: 40px; }
 }
 
 @media only screen and (min-width: 321px) and (max-width: 480px) {
   p, i { font-size: 20px; }
   h1 { font-size: 50px; }
-
 }
+
 @media only screen and (max-width: 320px) {
   p, i { font-size: 24px; }
   h1  { font-size: 60px; }
@@ -85,9 +87,19 @@ footer {
   }
 }
 
-.container {
-  width: 60% !important;
-  margin: 6em auto !important;
+/*** RESPONSIVE CONTAINER SIZE ***/
+
+@media only screen and (min-width: 481px) {
+  .container {
+    width: 60% !important;
+    margin: 6em auto !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .container {
+    width: 90% !important;
+  }
 }
 
 .block {
@@ -163,6 +175,10 @@ blockquote p {
   margin: 3em 1em;
   padding: 1em 3em;
   background-color: white;
+}
+
+.twitter-tweet {
+  margin: 2em !important;
 }
 
 .twitter-wrapper {
