@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*** OVERALL STYLES ***/
 /* line 3, ../_sass/styling.scss */
 * {
@@ -341,4 +342,16 @@ blockquote p {
 .center-glyph {
   width: 12px;
   margin: 12px auto;
+}
+
+/* line 265, ../_sass/styling.scss */
+.username {
+  color: purple;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* line 271, ../_sass/styling.scss */
+.username::after {
+  content: ' — ';
 }
