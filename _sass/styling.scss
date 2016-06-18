@@ -261,3 +261,13 @@ blockquote p {
   width: 12px;
   margin: 12px auto;
 }
+
+.username {
+  color: purple;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.username::after {
+  content: ' — ';
+}
