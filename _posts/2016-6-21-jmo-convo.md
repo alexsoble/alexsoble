@@ -127,7 +127,7 @@ But people like Lincoln Chandler, Demond Drummer, Anna Marie Tamayo…it’s see
 
 I would be interested in hearing from those folks and others about what it would take to make Hack Night more diverse and inclusive. I personally know black women who code, but I’m not seeing them at Hack Nights. And I don’t know why that is (and it could have changed, I haven’t been able to attend for awhile)
 
-Second question: How can we recruit more intermediaries and support them? But I’m going to take a breath first and see if you want to get a word in edgewise here :slightly_smiling_face:
+Second question: How can we recruit more intermediaries and support them? But I’m going to take a breath first and see if you want to get a word in edgewise here :)
 
 <span class="username">alexsoble</span> I think both of your suggestions are right on point!
 
@@ -213,7 +213,7 @@ So that everyone at the table knows, “OH! Okay, JMO is the person who is going
 
 <span class="username">alexsoble</span> Absolutely. I think there is a major assumption that groups are self-organizing.
 
-<span class="username">jmochicago</span> Well, they are self-organizing around writing code :slightly_smiling_face:
+<span class="username">jmochicago</span> Well, they are self-organizing around writing code :)
 
 But these projects are only as good as the analysis and insight that informs the code
 
