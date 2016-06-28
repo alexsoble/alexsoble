@@ -1,7 +1,6 @@
 ---
 layout: default
-title: JMO and Alex Chat about Hack Night
-
+title: JMO and Alex Chat about Hack Night — White Professional Privilege & Collaboration Over Code
 tags:
 - civic-tech
 ---
@@ -9,9 +8,9 @@ tags:
 JMO and Alex Chat about Hack Night
 ================================
 
-_Recently on Twitter, one of the original promoters of civic hack nights in Chicago declared that the [“civic tech movement should be shelved”](http://civichall.org/civicist/an-education-in-community-technology/), which caught folks' attention and raised big questions._
+_Recently on Twitter, one of the original promoters of civic hack nights in Chicago declared that the [“civic tech movement should be shelved”](http://civichall.org/civicist/an-education-in-community-technology/), which caught folks' attention and raised good questions._
 
-_I wanted to hear from [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher & public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/). SchoolCuts and CPSApples2Apples have been cited as two civic data projects that have influenced (and still influence) parent engagement with policy and discussion regarding systemic changes in Chicago Public Schools._
+_I wanted to hear from [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher and public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/). SchoolCuts and CPSApples2Apples have been cited as two civic data projects that have influenced (and still influence) parent engagement with policy and discussion regarding systemic changes in Chicago Public Schools._
 
 _I consider Jeanne to be a central part of what makes the civic hacking movement in Chicago worthwhile. But Jeanne hasn't been to the hack night itself in a while. What did she think about Chi Hack Night? We used Slack to catch up._
 
@@ -117,7 +116,13 @@ And then there is the qualitative data in communities…how things work, how peo
 
 The qualitative data…the process maps, the decision-making trees that are implicit…those can really help hackers to make sense of and design around the quantitative or “spreadsheet” data.
 
-That is the data you can really only get in 3 ways: 1) going into the field/community and looking/listening for it. 2) being a member of the community with an experience so universal to all demographics that you can represent the community, 3) Bringing in members of the community who are self-aware and proficient in explaining how things work to you (harder to find than people think)
+That is the data you can really only get in 3 ways:
+
+1) going into the field/community and looking/listening for it.
+
+2) being a member of the community with an experience so universal to all demographics that you can represent the community,
+
+3) Bringing in members of the community who are self-aware and proficient in explaining how things work to you (harder to find than people think)
 
 Hack nights historically and serendipitously rely on 3
 
@@ -131,16 +136,9 @@ The most interesting Hack Night to me, personally, would be to invite in a group
 
 They aren’t there as tech people, or even data people. They are there as experts in their community.
 
-<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/YNq6ekvunZ/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por @alexsoble</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-04-17T17:05:36+00:00">17 de Abr de 2013 a la(s) 10:05 PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-
-<em>Above: Paseo Boricua, Humboldt Park, Chicago, Illinois.</em>
-<br/>
-<br/>
-
 # MAKE A SPACE FOR COLLABORATION, NOT JUST CODE
 
-The key is though…having the space and opportunity to do it.
+<span class="username">jmochicago</span>  The key is though…having the space and opportunity to do it.
 
 That is why I don’t think Hack Night is dead.
 
@@ -153,8 +151,6 @@ I don’t know if that is typical nationally. Or specific to Chicago.
 But people like Lincoln Chandler, Demond Drummer, Anna Marie Tamayo…it’s see different people behind those laptops than the stereotype.
 
 I would be interested in hearing from those folks and others about what it would take to make Hack Night more diverse and inclusive. I personally know black women who code, but I’m not seeing them at Hack Nights. And I don’t know why that is (and it could have changed, I haven’t been able to attend for awhile)
-
-# BRIDGING THE WORLDS OF CODERS AND NON-CODERS
 
 Your second question: How can we recruit more intermediaries and support them? But I’m going to take a breath first and see if you want to get a word in edgewise here :)
 
@@ -172,16 +168,24 @@ I agree that having hack night in River North every week is a barrier to buildin
 
 <span class="username">jmochicago</span> YES!
 
-<span class="username">alexsoble</span> You are so right that the place we meet sends signals and sets cues that are easy to miss if you're comfortable in downtown office settings. You mentioned that changing up where we meet would mean more logistical work.
+<span class="username">alexsoble</span> You are so right that the place we meet sends signals and sets cues that are easy to miss if you're comfortable in downtown office settings...
 
-I think if we empowered hack night members to set up alternative spaces for the hack night, the vision you described of Pilsen churches and U of C Campus and a coffeeshop in Englewood could really happen.
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/YNq6ekvunZ/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por @alexsoble</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-04-17T17:05:36+00:00">17 de Abr de 2013 a la(s) 10:05 PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<em>Above: Paseo Boricua, Humboldt Park, Chicago, Illinois.</em>
+<br/>
+<br/>
+
+<span class="username">alexsoble</span> I think if we empowered hack night members to set up alternative spaces for the hack night, the vision you described of Pilsen churches and U of C Campus and a coffeeshop in Englewood could really happen.
 
 The hack night community has members who live or work in all of those neighborhoods.
+
 
 <span class="username">jmochicago</span> I think it is possible, absolutely.
 
 3 nights in River North, 1 night out in community. Or 2 and 2
 
-The geo location is 1/2 of the challenge
+The geo location is 1/2 of the challenge...
 
-<span class="username">alexsoble</span> Let's talk about the other half
+<em>Next week: we talk in more depth about the other half of the challenge.</em>
