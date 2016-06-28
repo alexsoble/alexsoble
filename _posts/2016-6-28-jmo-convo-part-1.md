@@ -70,7 +70,7 @@ Those are my 5. Do you have any?
 
 I credit them fully for kicking my work on school data up at least 10 levels.
 
-Derek, Juan, and Christopher were my connectors.
+[Derek](https://twitter.com/derekeder), [Juan](https://twitter.com/jpvelez), and [Christopher](https://twitter.com/CivicWhitaker) were my connectors.
 
 Josh was a translator for me.
 
@@ -150,7 +150,7 @@ One of the cooler things about Chi Hack Night is that, although it is still majo
 
 I don’t know if that is typical nationally. Or specific to Chicago.
 
-But people like Lincoln Chandler, Demond Drummer, Anna Marie Tamayo…it’s see different people behind those laptops than the stereotype.
+But people like [Lincoln Chandler](https://twitter.com/ljc820), [Demond Drummer](https://twitter.com/citizendrummer), Anna Marie Tamayo…it’s see different people behind those laptops than the stereotype.
 
 I would be interested in hearing from those folks and others about what it would take to make Hack Night more diverse and inclusive. I personally know black women who code, but I’m not seeing them at Hack Nights. And I don’t know why that is (and it could have changed, I haven’t been able to attend for awhile)
 
