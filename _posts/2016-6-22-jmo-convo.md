@@ -9,6 +9,14 @@ tags:
 JMO and Alex Chat about Hack Night
 ================================
 
+_Recently on Twitter, one of the original promoters of Hack Nights in Chicago declared that the [“civic tech movement should be shelved”](http://civichall.org/civicist/an-education-in-community-technology/), which caught folks' attention and raised important questions._
+
+_I wanted to hear from [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher & public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/). SchoolCuts and CPSApples2Apples have been cited as two civic data projects that have influenced (and still influence) parent engagement with policy and discussion regarding systemic changes in Chicago Public Schools._
+
+_I consider Jeanne to be a central part of what makes the civic hacking movement in Chicago worthwhile. But Jeanne hasn't been to the hack night itself in a while. What did she think about Hack Night? Are they still useful? We used Slack to catch up._
+
+<br/>
+
 <span class="username">alexsoble</span> Hello!
 
 <span class="username">jmochicago</span> Hi! You ready?? Hang on, let me put something away.
@@ -21,9 +29,11 @@ JMO and Alex Chat about Hack Night
 
 <span class="username">jmochicago</span> Yes!
 
-Okay. 1) Start with a question.
+Okay.
 
-And you will need to invite people from the community in to co-discover those questions.
+# 5 Rules for the Productive Future of Hack Nights
+
+__1) Start with a question.__ And you will need to invite people from the community in to co-discover those questions.
 
 So, don’t start with the data you have. Start with the question someone wants to answer. Like,
 
@@ -31,27 +41,29 @@ SchoolCuts started with questions such as “Which schools are likely to be targ
 
 Hack Nights are great opportunities to sit people around a table and talk to them about their questions, everyday problems and frustrations.
 
-2) Don’t code without insight into the problem you are trying to solve.
-
-In other words, asking a question may not be enough. You may have to work with others or do some investigation yourself into the context that the question sits in…Whether that is secondary research done in a Hack Night Setting, or getting out of the room between Hack Nights into the “field”.
+__2) Don’t code without insight into the problem you are trying to solve.__ In other words, asking a question may not be enough. You may have to work with others or do some investigation yourself into the context that the question sits in…Whether that is secondary research done in a Hack Night Setting, or getting out of the room between Hack Nights into the “field”.
 
 An example would be related to the question, “How can we get people in all neighborhoods to healthier grocery stores?"
 
 If we just ended there, maybe we could build an app re: routes in neighborhoods to grocery stores, times the store is open, etc. But when we get into a neighborhood that is in the middle of a grocery desert, we realize that the question changes. The insight is that there aren’t close by grocery stores. That the stores people do go to may not have fresh produce. Oh, look, there is a farmer’s market. Or here someone has started a project with a fresh foods truck that comes around. Maybe the better “hacked” solution is a locator for the food truck so you know when/where it will be. It becomes less about where grocery stores are located. And more about shortening the distance between people and healthy food.
 
-3) Vet the projects for “Hack for Change” events carefully. Make sure that they already have the question they are trying to answer, the insight AND the location of the data nailed down. Make it about the tech solution and coding. OR acknowledge that…without those 3 things, a team’s success might not be an app. It might be the finding of one of those 3 things.
+<img src='/assets/images/SchoolCutsTeam___themeeting.jpg'>
+
+__3) Vet the projects for “Hack for Change” events carefully.__ Make sure that they already have the question they are trying to answer, the insight AND the location of the data nailed down. Make it about the tech solution and coding. OR acknowledge that…without those 3 things, a team’s success might not be an app. It might be the finding of one of those 3 things.
 
 It might be as important to celebrate developing a way to connect the insight to the data needed to answer it as it is to code anything.
 
-4) Do as much as you can to welcome non-coders into a Hack Night space as you possibly can. Even if they don’t “get” tech or code. Especially if they don’t look, talk, or think like you do. Non-tech people can be intimidated by how the tech folks present themselves, their space, their language.
+__4) Do as much as you can to welcome non-coders into a Hack Night space as you possibly can.__ Even if they don’t “get” tech or code. Especially if they don’t look, talk, or think like you do. Non-tech people can be intimidated by how the tech folks present themselves, their space, their language.
 
 Make the event about them. An orientation for non-coders as well as coders.
 
-5) Find your translators and use them. The community activist world and the tech world don’t naturally speak the same language. Designers and coders don’t always prioritize the same things. Find those people in the community who can bridge groups, and set them up as intermediaries at events, for projects, etc. Make them official so they have a place, and others know they can help to “interpret” if needed.
+__5) Find your translators and use them.__ The community activist world and the tech world don’t naturally speak the same language. Designers and coders don’t always prioritize the same things. Find those people in the community who can bridge groups, and set them up as intermediaries at events, for projects, etc. Make them official so they have a place, and others know they can help to “interpret” if needed.
 
 Those are my 5. Do you have any?
 
 <span class="username">alexsoble</span> Hmmmm . . . not that I've thought about and put into list form! I want to talk about yours because I think they are WONDERFUL.
+
+# OVERCOMING “WHITE PROFESSIONAL PRIVILEGE” INHERENT IN HACK NIGHTS
 
 <span class="username">jmochicago</span> I love Chi Hack Night and I wish I could go every Tues.
 
@@ -67,7 +79,13 @@ It was a space that I was familiar with, and not intimidated by. That said, I re
 
 And that made it VERY easy to interact with people.
 
-If I was, for example, a public school teacher—a middle aged woman of color who was not used to corp tech spaces—I don’t know how easy or comfortable it would have been to navigate that space.
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Whxvhdvutx/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por @alexsoble</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-03-06T19:27:17+00:00">6 de Mar de 2013 a la(s) 11:27 PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<em>Above: The Merch Mart in downtown Chicago, where ChiHackNight meets each week.</em>
+<br/>
+<br/>
+
+<span class="username">jmochicago</span> If I was, for example, a public school teacher—a middle aged woman of color who was not used to corp tech spaces—I don’t know how easy or comfortable it would have been to navigate that space.
 
 That is where intermediaries can really come in handy
 
@@ -113,6 +131,15 @@ The most interesting Hack Night to me, personally, would be to invite in a group
 
 They aren’t there as tech people, or even data people. They are there as experts in their community.
 
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/YNq6ekvunZ/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por @alexsoble</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-04-17T17:05:36+00:00">17 de Abr de 2013 a la(s) 10:05 PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<em>Above: Paseo Boricua, Humboldt Park, Chicago, Illinois.</em>
+<br/>
+<br/>
+
+# MAKE A SPACE FOR COLLABORATION, NOT JUST CODE
+
 The key is though…having the space and opportunity to do it.
 
 That is why I don’t think Hack Night is dead.
@@ -127,7 +154,9 @@ But people like Lincoln Chandler, Demond Drummer, Anna Marie Tamayo…it’s see
 
 I would be interested in hearing from those folks and others about what it would take to make Hack Night more diverse and inclusive. I personally know black women who code, but I’m not seeing them at Hack Nights. And I don’t know why that is (and it could have changed, I haven’t been able to attend for awhile)
 
-Second question: How can we recruit more intermediaries and support them? But I’m going to take a breath first and see if you want to get a word in edgewise here :)
+# BRIDGING THE WORLDS OF CODERS AND NON-CODERS
+
+Your second question: How can we recruit more intermediaries and support them? But I’m going to take a breath first and see if you want to get a word in edgewise here :)
 
 <span class="username">alexsoble</span> I think both of your suggestions are right on point!
 
@@ -156,6 +185,12 @@ The hack night community has members who live or work in all of those neighborho
 The geo location is 1/2 of the challenge
 
 <span class="username">alexsoble</span> Let's talk about the other half
+
+# BE INTENTIONAL ABOUT DIVERSIFYING PARTICIPANTS
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Still going at 415 am. Finished soda, pizza, send blankets <a href="https://twitter.com/hashtag/socold?src=hash">#socold</a> <a href="https://twitter.com/hashtag/opengov?src=hash">#opengov</a>  <a href="https://twitter.com/DataInstitute">@DataInstitute</a> <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="http://t.co/gQYF4gQADX">pic.twitter.com/gQYF4gQADX</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/314666386347679744">March 21, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <span class="username">jmochicago</span> That’s where the intermediaries come in.
 
@@ -199,6 +234,9 @@ I think some of the Knight Lab students have been by…I’m not entirely sure.
 
 <span class="username">alexsoble</span> Exactly
 
+# CULTIVATING MULTIDISCIPLINARY TEAMS AND CONNECTORS
+
+
 <span class="username">jmochicago</span> But the folks who can do an organizational analysis, who understand decision-making systems analysis, or who are just really good at listening/observing and mapping community problems…those are the folks w/o an explicit tribe there.
 
 Juan used to kind of take those folks under his wing
@@ -241,6 +279,11 @@ But yes, it was a fun project
  (Not the subject matter, the team)
 
 <span class="username">alexsoble</span> I saw parent leaders and CPS employees working together a time when the news and the politics were all about strife and disagreement. That kind of collaboration struck me as totally essential
+
+# ORGANIZE AROUND THE QUESTIONS, NOT THE DATA OR CODE
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">9 pm. Tuesday night. Getting the data right with <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/elnazem">@elnazem</a> <a href="http://t.co/0ziAmzjBJv">pic.twitter.com/0ziAmzjBJv</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/311660525148831744">March 13, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span class="username">jmochicago</span> The thing that made it work was…we were trying to understand a very specific event
 
@@ -297,6 +340,11 @@ Does Hack Night have a map of all of the small organizations that are situated i
 Like Refugee and Relief services? or Community Clinics in Chicago?
 
 <span class="username">alexsoble</span> I think that is an extremely good idea
+
+# HACK NIGHT IS AN OPPORTUNITY, NOT JUST A NIGHT
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="https://twitter.com/shua123">@shua123</a> waiting our turn to participate in local democracy <a href="http://t.co/OSVq9MXf">pic.twitter.com/OSVq9MXf</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/279763397111848961">December 15, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span class="username">jmochicago</span> Hack Night is still creating the opportunity, the conversation…it doesn’t have to be about the space (or the same space)
 
