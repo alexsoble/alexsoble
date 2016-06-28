@@ -5,8 +5,10 @@ tags:
 - civic-tech
 ---
 
-JMO and Alex Chat about Hack Night
+JMO and Alex Chat about Hack Night — White Professional Privilege & Collaboration Over Code
 ================================
+
+<br/>
 
 _Recently on Twitter, one of the original promoters of civic hack nights in Chicago declared that the [“civic tech movement should be shelved”](http://civichall.org/civicist/an-education-in-community-technology/), which caught folks' attention and raised good questions._
 
@@ -48,7 +50,7 @@ If we just ended there, maybe we could build an app re: routes in neighborhoods 
 
 <img src='/assets/images/SchoolCutsTeam___themeeting.jpg'>
 
-__3) Vet the projects for “Hack for Change” events carefully.__ Make sure that they already have the question they are trying to answer, the insight AND the location of the data nailed down. Make it about the tech solution and coding. OR acknowledge that…without those 3 things, a team’s success might not be an app. It might be the finding of one of those 3 things.
+__3) Vet the projects for “Hack for Change” events carefully.__ Make sure that they already have the question they are trying to answer, the insight AND the location of the data nailed down. OR acknowledge that…without those 3 things, a team’s success might not be an app. It might be the finding of one of those 3 things.
 
 It might be as important to celebrate developing a way to connect the insight to the data needed to answer it as it is to code anything.
 
