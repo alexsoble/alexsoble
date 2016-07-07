@@ -1,12 +1,12 @@
 ---
 layout: default
-title: JMO and Alex Chat about Hack Night — Being Embedded and Organizing Around Questions
+title: JMO and Alex Chat about Hack Night — Being Embedded & Organizing Around Questions
 
 tags:
 - civic-tech
 ---
 
-JMO and Alex Chat about Hack Night — Being Embedded and Organizing Around Questions
+JMO and Alex Chat about Hack Night — Being Embedded & Organizing Around Questions
 ================================
 
 _Last week I talked with [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher and public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/), about hack night. [We discussed white professional privilege at hack night and the importance of collaboration over code.](http://www.alexsoble.com/2016/06/28/jmo-convo-part-1/)_
