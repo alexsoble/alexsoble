@@ -1,24 +1,32 @@
 ---
 layout: default
-title: JMO and Alex Chat about Hack Night
+title: JMO and Alex Chat about Hack Night, Part 2 — Organize Around Questions
 
 tags:
 - civic-tech
 ---
 
-<span class="username">alexsoble</span> Let's talk about the other half
+JMO and Alex Chat about Hack Night, Part 2 — Organize Around Questions
+================================
 
-# BE INTENTIONAL ABOUT DIVERSIFYING PARTICIPANTS
+_Last week I talked with [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher and public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/), about hack night. [We discussed white professional privilege at hack night and the importance of collaboration over code.](http://www.alexsoble.com/2016/06/28/jmo-convo-part-1/)_
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Still going at 415 am. Finished soda, pizza, send blankets <a href="https://twitter.com/hashtag/socold?src=hash">#socold</a> <a href="https://twitter.com/hashtag/opengov?src=hash">#opengov</a>  <a href="https://twitter.com/DataInstitute">@DataInstitute</a> <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="http://t.co/gQYF4gQADX">pic.twitter.com/gQYF4gQADX</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/314666386347679744">March 21, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+_Here's part 2 of our conversation._
 
+<br/>
+
+<span class="username">alexsoble</span> Ok, so the physical location is half of the challenge in building a stronger hack night. Let's talk about the other half
 
 <span class="username">jmochicago</span> That’s where the intermediaries come in.
 
-You need those community-based people who understand the world of data/tech (Demond Drummer is a perfect example) and also understand activism and the neighborhood.
+You need those community-based people who understand the world of data/tech ([Demond Drummer](https://twitter.com/citizendrummer) is a perfect example) and also understand activism and the neighborhood.
 
-Otherwise you have a group on one side with their laptops, frustrated that the conversation about community problems doesn’t quickly get to the main points of “problem” and “data”.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="https://twitter.com/shua123">@shua123</a> waiting our turn to participate in local democracy <a href="http://t.co/OSVq9MXf">pic.twitter.com/OSVq9MXf</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/279763397111848961">December 15, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# EMBEDDED INTERMEDIARIES
+
+<span class="username">jmochicago</span> Otherwise you have a group on one side with their laptops, frustrated that the conversation about community problems doesn’t quickly get to the main points of “problem” and “data”.
 
 And a group no the other side who has a lot of knowledge but may not know “how” to package that knowledge for the data/tech people.
 
@@ -35,6 +43,9 @@ And I’m an ethnographer.
 It’s a mindset that is well primed to work in the space with tech folks/coders
 
 I just happened to also be someone who was embedded.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">9 pm. Tuesday night. Getting the data right with <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/elnazem">@elnazem</a> <a href="http://t.co/0ziAmzjBJv">pic.twitter.com/0ziAmzjBJv</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/311660525148831744">March 13, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So. We need to find folks who are embedded. And those who are used to working with the “embedded”. Ethnographers and org consultants are just as interested in civic and social change. They just don’t have a specific role to play in the Hack Night space unless they also show up with data and/or coding skills
 
@@ -58,14 +69,16 @@ I think some of the Knight Lab students have been by…I’m not entirely sure.
 
 # CULTIVATING MULTIDISCIPLINARY TEAMS AND CONNECTORS
 
-
 <span class="username">jmochicago</span> But the folks who can do an organizational analysis, who understand decision-making systems analysis, or who are just really good at listening/observing and mapping community problems…those are the folks w/o an explicit tribe there.
 
-Juan used to kind of take those folks under his wing
+[Juan](https://twitter.com/jpvelez) used to kind of take those folks under his wing
 
 Before he left
 
-He was probably the closest person to a connector for that group
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Spooky number of people at <a href="https://twitter.com/hashtag/chihacknight?src=hash">#chihacknight</a>! Remind me to abandon things more often - they do better after I bail <a href="http://t.co/pSpLHeszB7">pic.twitter.com/pSpLHeszB7</a></p>&mdash; Juan-Pablo Velez (@jpvelez) <a href="https://twitter.com/jpvelez/status/572917371033292800">March 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span class="username">jmochicago</span> He was probably the closest person to a connector for that group
 
 I think…maybe that is part of it. The roles that are needed to get a really robust project off of the ground are not explicit, not on the wall. I can’t walk into the room and, on Night #1, point to a diagram on the wall and say, “What do I do? I do THAT."
 
@@ -104,9 +117,6 @@ But yes, it was a fun project
 
 # ORGANIZE AROUND THE QUESTIONS, NOT THE DATA OR CODE
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">9 pm. Tuesday night. Getting the data right with <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/elnazem">@elnazem</a> <a href="http://t.co/0ziAmzjBJv">pic.twitter.com/0ziAmzjBJv</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/311660525148831744">March 13, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <span class="username">jmochicago</span> The thing that made it work was…we were trying to understand a very specific event
 
 And we had clear, concise questions about what we didn’t know. And those clear questions automatically drew people to us.
@@ -118,6 +128,9 @@ The data did not pull in people, or the coding. It was the questions.
 How are schools being ranked and where does that info come from?
 
 Those questions created an energy.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Still going at 415 am. Finished soda, pizza, send blankets <a href="https://twitter.com/hashtag/socold?src=hash">#socold</a> <a href="https://twitter.com/hashtag/opengov?src=hash">#opengov</a>  <a href="https://twitter.com/DataInstitute">@DataInstitute</a> <a href="https://twitter.com/shua123">@shua123</a> <a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="http://t.co/gQYF4gQADX">pic.twitter.com/gQYF4gQADX</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/314666386347679744">March 21, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 “How do we explain to parents what the possible scenarios are if their school is closed?"
 
@@ -164,9 +177,6 @@ Like Refugee and Relief services? or Community Clinics in Chicago?
 <span class="username">alexsoble</span> I think that is an extremely good idea
 
 # HACK NIGHT IS AN OPPORTUNITY, NOT JUST A NIGHT
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ILRaiseYourHand">@ILRaiseYourHand</a> <a href="https://twitter.com/shua123">@shua123</a> waiting our turn to participate in local democracy <a href="http://t.co/OSVq9MXf">pic.twitter.com/OSVq9MXf</a></p>&mdash; Jeanne Marie Olson (@JMOChicago) <a href="https://twitter.com/JMOChicago/status/279763397111848961">December 15, 2012</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <span class="username">jmochicago</span> Hack Night is still creating the opportunity, the conversation…it doesn’t have to be about the space (or the same space)
 
