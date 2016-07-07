@@ -9,13 +9,15 @@ tags:
 JMO and Alex Chat about Hack Night — Being Embedded & Organizing Around Questions
 ================================
 
-_Last week I talked with [Jeanne Marie Olson](http://twitter.com/jmochicago), the researcher and public school parent behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/), about hack night. [We discussed white professional privilege at hack night and the importance of collaboration over code.](http://www.alexsoble.com/2016/06/28/jmo-convo-part-1/)_
+_Last week I talked about Chicago's weekly civic hack night with [Jeanne Marie Olson](http://twitter.com/jmochicago). Jeanne Marie Olson is a researcher and public school parent and is behind projects like [CPSApples2Apples](https://cpsapples2apples.com/) and [SchoolCuts.org](http://www.schoolcuts.org/)._
 
-_Here's part 2 of our conversation._
+_Last week, we discussed_ ___[white professional privilege at hack night and collaboration over code.](http://www.alexsoble.com/2016/06/28/jmo-convo-part-1/)___
+
+_Here is part 2 of our conversation._
 
 <br/>
 
-<span class="username">alexsoble</span> Ok, so the physical location is half of the challenge in building a stronger hack night. Let's talk about the other half
+<span class="username">alexsoble</span> Ok, so physical location is half of the challenge in building a stronger hack night. Let's talk about the other half
 
 <span class="username">jmochicago</span> That’s where the intermediaries come in.
 
