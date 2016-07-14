@@ -145,8 +145,6 @@ Blogging about the project really helped with that.
 
 And I think these things are true of so many of the best hack night projects
 
-"very robust, but very sensitive to navigate."
-
 "we were trying to understand a very specific event"
 
 "The questions were the invitation for others to get involved."
