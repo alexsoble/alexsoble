@@ -30,7 +30,7 @@ You need those community-based people who understand the world of data/tech ([De
 
 <span class="username">jmochicago</span> Otherwise you have a group on one side with their laptops, frustrated that the conversation about community problems doesn’t quickly get to the main points of “problem” and “data”.
 
-And a group no the other side who has a lot of knowledge but may not know “how” to package that knowledge for the data/tech people.
+And a group on the other side which has a lot of knowledge but may not know “how” to package that knowledge for the data/tech people.
 
 When I came to my first Hack Night, I was absorbed in pretty quickly because I came with everything already packaged in a way that they could understand it.
 
