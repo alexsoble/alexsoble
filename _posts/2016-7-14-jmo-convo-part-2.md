@@ -105,6 +105,7 @@ Being at a volunteer event on a weeknight, every single week, is extremely diffi
 <span class="username">jmochicago</span> Such a good question. Hmm. I haven’t been there since…2014?
 
 <span class="username">alexsoble</span> Yes but when I think about what makes hack night important I think of YOU! And SchoolCuts!
+
 <span class="username">jmochicago</span> Hahaha. So, your point is proven by the fact that I haven’t been able to be there since 2014
 
 <span class="username">alexsoble</span> At least for me, that was a very inspiring and eye-opening project
